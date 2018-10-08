@@ -1,0 +1,14 @@
+blockquote {
+  font-style: italic
+}
+
+body {font-size: 200%;}
+
+
+h4{
+position:absolute;
+top:13cm; 
+left:2.5;
+font-weight:bold;
+clear:both;
+}
